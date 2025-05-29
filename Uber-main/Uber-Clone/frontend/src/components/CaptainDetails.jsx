@@ -6,7 +6,7 @@ const CaptainDetails = () => {
 
     // const { captain } = useContext(CaptainDataContext)
     const {authCaptain} = CaptainAuthStore();
-    const captain = {fullname : {firstname : "Manideep",lastname : "Naidu"}};
+    const captain = {fullname : {firstname : "Nenavath",lastname : "Rajesh"}};
 
     return (
         <div>
